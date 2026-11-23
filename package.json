@@ -1,0 +1,7 @@
+{
+  "name": "tls_handshake",
+  "version": "1.0.0",
+  "description": "РГР: імітація TLS/SSL рукостискання (базовий варіант)",
+  "scripts": { "server": "node server.js", "client": "node client.js" },
+  "license": "MIT"
+}
